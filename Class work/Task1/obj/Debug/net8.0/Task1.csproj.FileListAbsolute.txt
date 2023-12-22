@@ -1,0 +1,4 @@
+C:\Users\amdhp\Desktop\C44\Week 2\day 4\Class work\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\C44\Week 2\day 4\Class work\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\C44\Week 2\day 4\Class work\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\C44\Week 2\day 4\Class work\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
